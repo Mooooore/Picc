@@ -8,14 +8,6 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
     },
     {
-        "id": "5d53afb4-04cf-4eb8-a1fb-d0a582e5c324",
-        "Top": true,
-        "note": "不支持搜索",
-        "Search": false,
-        "name": "优质资源库",
-        "api": "https://api.1080zyku.com/inc/api.php/provide/vod/at/xml/"
-    },
-    {
         "id": "9435b587-bfb8-418c-8186-add2a10ff9b9",
         "Top": true,
         "note": "有貼片",
@@ -130,6 +122,20 @@
         "Top": true,
         "name": "68資源",
         "api": "https://caiji.68zyapi.com/api.php/provide/vod/from/68zy_m3u8/at/xml/ "
+    },
+    
+    
+    
+    
+    
+    
+    {
+        "id": "5d53afb4-04cf-4eb8-a1fb-d0a582e5c324",
+        "Top": true,
+        "note": "不支持搜索",
+        "Search": false,
+        "name": "优质资源库",
+        "api": "https://api.1080zyku.com/inc/api.php/provide/vod/at/xml/"
     },
     {
         "id": "cebd3af2-5496-4e3e-82c5-1eb67f99581d",

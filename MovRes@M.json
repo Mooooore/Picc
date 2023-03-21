@@ -8,6 +8,14 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
     },
     {
+        "id": "3159bb9a-4f12-4acd-8597-28ccce6d76f7",
+        "Top": true,
+        "note": "720P 文字貼片 1M",
+        "Search": true,
+        "name": "金鹰资源",
+        "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml"
+    },
+    {
         "id": "9435b587-bfb8-418c-8186-add2a10ff9b9",
         "Top": true,
         "note": "有貼片",
@@ -47,14 +55,7 @@
         "name": "快车资源",
         "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml "
     },
-    {
-        "id": "3159bb9a-4f12-4acd-8597-28ccce6d76f7",
-        "Top": true,
-        "note": "720P 文字貼片 1M",
-        "Search": true,
-        "name": "金鹰资源",
-        "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml"
-    },
+    
     {
         "id": "32daa0fd-d7f9-4bcf-8e17-d9ad95b45885",
         "Top": true,

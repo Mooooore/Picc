@@ -8,13 +8,6 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/"
     },
     {
-        "id": "cebd3af2-5496-4e3e-82c5-1eb67f99581d",
-        "Top": true,
-        "note": "CC 版權電影",
-        "name": "開放電影",
-        "api": "https://vod-demo.onrender.com/pubdovod.php"
-    },
-    {
         "id": "5d53afb4-04cf-4eb8-a1fb-d0a582e5c324",
         "Top": true,
         "note": "不支持搜索",
@@ -45,22 +38,6 @@
         "Search": true,
         "name": "乐活影视",
         "api": "https://lehootv.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "d1d9ec96-4c74-46aa-a9d1-98936b5415f8",
-        "Top": true,
-        "note": "匹配海外看和量子",
-        "Search": true,
-        "name": "唐人街",
-        "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "dcacd547-7b5e-4bec-b584-272e5c3d4530",
-        "Top": true,
-        "note": "720P 文字貼片",
-        "Search": true,
-        "name": "酷点资源",
-        "api": "https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml "
     },
     {
         "id": "cce24c17-6793-4898-860b-ad3e314d4fa7",
@@ -155,11 +132,18 @@
         "api": "https://caiji.68zyapi.com/api.php/provide/vod/from/68zy_m3u8/at/xml/ "
     },
     {
+        "id": "cebd3af2-5496-4e3e-82c5-1eb67f99581d",
+        "Top": true,
+        "note": "CC 版權電影",
+        "name": "開放電影🔗",
+        "api": "https://vod-demo.onrender.com/pubdovod.php"
+    },
+    {
         "id": "3c959523-bf64-4bd2-98c8-2cb67198793f",
         "Top": true,
         "Search": false,
         "Adult": true,
-        "name": "森林资源",
+        "name": "森林资源🔗",
         "api": "https://slapibf.com/api.php/provide/vod/at/xml"
     },
     {
@@ -167,7 +151,7 @@
         "Top": true,
         "Search": false,
         "Adult": true,
-        "name": "影库资源网",
+        "name": "影库资源网🔗",
         "api": "https://api.ykapi.net/api.php/provide/vod/at/xml"
     },
     {
@@ -175,28 +159,28 @@
         "Top": true,
         "Search": false,
         "Adult": true,
-        "name": "探探资源",
+        "name": "探探资源🔗",
         "api": "https://apittzy.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "5bdaea2a-f022-4fdb-8709-4da559604c35",
         "Top": true,
         "Adult": true,
-        "name": "老鸭资源采集",
+        "name": "老鸭资源采集🔗",
         "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "2972553b-dc4b-4bcd-b598-4e663fd6f52d",
         "Top": true,
         "Adult": true,
-        "name": "奥斯卡资源网",
+        "name": "奥斯卡资源网🔗",
         "api": "https://aosikazy.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "e327dfc3-41fd-47d2-8d8e-fcc825901927",
         "Top": true,
         "Adult": true,
-        "name": "丝袜资源",
+        "name": "丝袜资源🔗",
         "api": "https://siwazyw.cc/api.php/provide/vod/at/xml"
     }
 ]

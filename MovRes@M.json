@@ -16,6 +16,14 @@
         "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml"
     },
     {
+        "id": "885e3afb-8972-4447-9ba9-6a894c717e71",
+        "Top": true,
+        "note": "1080P 最高 2.5M，中間有廣告",
+        "Search": true,
+        "name": "非凡资源",
+        "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/"
+    },
+    {
         "id": "9435b587-bfb8-418c-8186-add2a10ff9b9",
         "Top": true,
         "note": "有貼片",
@@ -103,14 +111,7 @@
         "name": "飘花电影",
         "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml"
     },
-    {
-        "id": "885e3afb-8972-4447-9ba9-6a894c717e71",
-        "Top": true,
-        "note": "1080P 最高 2.5M，中間有廣告",
-        "Search": true,
-        "name": "非凡资源",
-        "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/"
-    },
+    
     {
         "id": "48e93020-4462-4c98-8534-de745c4d6692",
         "Top": true,

@@ -139,13 +139,7 @@
         "name": "优质资源库",
         "api": "https://api.1080zyku.com/inc/api.php/provide/vod/at/xml/"
     },
-    {
-        "id": "cebd3af2-5496-4e3e-82c5-1eb67f99581d",
-        "Top": true,
-        "note": "CC 版權電影",
-        "name": "開放電影🔗",
-        "api": "https://vod-demo.onrender.com/pubdovod.php"
-    },
+  
     {
         "id": "3c959523-bf64-4bd2-98c8-2cb67198793f",
         "Top": true,
@@ -162,14 +156,7 @@
         "name": "影库资源网🔗",
         "api": "https://api.ykapi.net/api.php/provide/vod/at/xml"
     },
-    {
-        "id": "4bbc8f2f-4aac-49bb-93ef-b90cf8e0b0a9",
-        "Top": true,
-        "Search": false,
-        "Adult": true,
-        "name": "探探资源🔗",
-        "api": "https://apittzy.com/api.php/provide/vod/at/xml"
-    },
+   
     {
         "id": "5bdaea2a-f022-4fdb-8709-4da559604c35",
         "Top": true,

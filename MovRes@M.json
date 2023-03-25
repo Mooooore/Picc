@@ -149,15 +149,6 @@
         "api": "https://slapibf.com/api.php/provide/vod/at/xml"
     },
     {
-        "id": "4003eead-67e0-4302-b74b-731f8d054866",
-        "Top": true,
-        "Search": false,
-        "Adult": true,
-        "name": "影库资源网🔗",
-        "api": "https://api.ykapi.net/api.php/provide/vod/at/xml"
-    },
-   
-    {
         "id": "5bdaea2a-f022-4fdb-8709-4da559604c35",
         "Top": true,
         "Adult": true,

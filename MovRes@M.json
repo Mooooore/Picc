@@ -87,30 +87,7 @@
         "name": "樱花资源网",
         "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/at/xml"
     },
-    {
-        "id": "28b5a1a3-1e68-4ac9-aaed-437166be361d",
-        "Top": true,
-        "note": "720P 文字貼片 1M",
-        "Search": true,
-        "name": "快播资源",
-        "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml "
-    },
-    {
-        "id": "1fd165f2-31c8-485c-9645-00608ed4051f",
-        "Top": true,
-        "note": "720P 貼片",
-        "Search": false,
-        "name": "百度资源",
-        "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "a853165c-26b2-4dd3-aa1c-217d9232add7",
-        "Top": true,
-        "note": "720P 文字貼片 3M",
-        "Search": true,
-        "name": "飘花电影",
-        "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml"
-    },
+  
     
     {
         "id": "48e93020-4462-4c98-8534-de745c4d6692",
@@ -119,17 +96,7 @@
         "name": "淘片资源",
         "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml"
     },
-    {
-        "id": "1dab5f51-0770-4e74-b720-33d502f4f6e0",
-        "Top": true,
-        "name": "68資源",
-        "api": "https://caiji.68zyapi.com/api.php/provide/vod/from/68zy_m3u8/at/xml/ "
-    },
-    
-    
-    
-    
-    
+  
     
     {
         "id": "5d53afb4-04cf-4eb8-a1fb-d0a582e5c324",
